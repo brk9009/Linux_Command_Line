@@ -1,6 +1,6 @@
 Absolute pathname: begins with the root directory and follows the tree until the path is completed. /usr/bin/test.txt
 Relative pathname: Uses . and .. to specify a path name.
 
-
+cd - : Change directory to previous work directory
 Commands:
 pwd: Print name of the current working directory.
